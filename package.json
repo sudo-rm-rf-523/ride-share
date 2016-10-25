@@ -1,0 +1,23 @@
+{
+  "name": "ride-share",
+  "version": "0.0.0",
+  "description": "## Build",
+  "main": "webpack.config.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+      "build": "webpack",
+      "watch": "webpack --watch",
+      "dev": "webpack-dev-server --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudo-rm-rf-523/ride-share.git"
+  },
+  "author": "John McConnell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sudo-rm-rf-523/ride-share/issues"
+  },
+  "homepage": "https://github.com/sudo-rm-rf-523/ride-share#readme"
+}
